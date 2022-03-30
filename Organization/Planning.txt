@@ -1,0 +1,24 @@
+*********************************************Fonctions******************************************************************
+- Sessions client + admin: - admin: data analytics + CMS?
+				   - client: produits par types, news, deep learning and or data analytics results to class them?
+
+- Data analytics + virtual assistant.
+
+- Import database of products from an existing website.
+
+- Generate QR code with the clients data when an order is done.
+
+*********************************************  Tools  ******************************************************************
+- Languages: Javascript + Python // MangoDB(?)
+
+- Frameworks and Libraries: Reactjs + Django.
+
+*********************************************  To Do  ******************************************************************
+
+## 06/04/2022:
+	> Gantt.
+	> Conception.
+	> Fonctionalités.
+	> Etude de l'existant.
+	=> Cahier de charges. 
+           
