@@ -20,5 +20,5 @@
 	> Conception.
 	> Fonctionalités.
 	> Etude de l'existant.
-	=> Cahier de charges. 
+=> Cahier de charges. 
            
