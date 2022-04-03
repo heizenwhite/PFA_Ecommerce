@@ -1,18 +1,20 @@
+import '../styles/Cart.css'
+
 function Cart() {
-  const monsteraPrice = 8;
-  const ivyPrice = 10;
-  const flowerPrice = 15;
-  return (
-    <div>
-      <h2>Panier</h2>
-      <ul>
-        <li>Monstera : {monsteraPrice}€</li>
-        <li>Lierre : {ivyPrice}€</li>
-        <li>Fleurs : {flowerPrice}€</li>
-      </ul>
-      Total : {monsteraPrice + ivyPrice + flowerPrice}€
-    </div>
-  );
+    const mouse = 8;
+    const keyboard = 10;
+    const headset = 15;
+    return (
+        <div className="cart">
+            <h2>Panier</h2>
+            <ul>
+                <li>Mouse dial Jumia : {mouse}€</li>
+                <li>Keyboard mn sou9 larbe3 : {keyboard}€</li>
+                <li>Headset dial Wish : {headset}€</li>
+            </ul>
+            Total : {mouse + keyboard + headset}€
+        </div>
+    );
 }
 
 export default Cart;
